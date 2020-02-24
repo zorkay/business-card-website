@@ -97,14 +97,14 @@ body {
 
 .intro {
   margin: 0 0 0px;
-  padding-top: 130px;
+  padding-top: 100px;
   padding-bottom: 0px;
   background-color: #fafbfd;
   text-align: center;
 }
 
 .subheading {
-  margin: 0 0 56px;
+  margin: 0 0 45px;
   font-size: 72px;
   line-height: 104px;
   font-weight: 400;
