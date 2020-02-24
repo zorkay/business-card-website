@@ -96,9 +96,9 @@ body {
 }
 
 .intro {
-  margin: 0 0 160px;
-  padding-top: 200px;
-  padding-bottom: 80px;
+  margin: 0 0 0px;
+  padding-top: 130px;
+  padding-bottom: 0px;
   background-color: #fafbfd;
   text-align: center;
 }
@@ -117,7 +117,7 @@ body {
 
 .intro .subheading {
   position: relative;
-  top: -140px;
+  top: -30px;
   left: 48px;
   /*font-size: 16px;*/
   line-height: 32px;
@@ -137,8 +137,8 @@ body {
 }
 
 .user-image {
-  margin: 0 0 32px;
-  /*position: absolute;  
+  margin: 0 0 0px;
+  /*position: relative;  
   top: 0;
   left: 0;*/
   text-align: center;
@@ -195,8 +195,10 @@ margin-bottom: 10px;
 
 }
 
+
+
 .portfolio p {
-margin-bottom: 50px;
+margin-bottom: 70px;
 }
 
 .intro p {
@@ -296,12 +298,12 @@ margin-bottom: 50px;
 }
 
 .portfolio {
-  margin: 0 0 208px;
+  margin: 100px 0 208px;
   text-align: center;
 }
 
 .portfolio .subheading {
-  margin-bottom: 80px;
+  margin-bottom: 50px;
   text-align: center;
 }
 
